@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrcutura Lineales", "Estrcutura Lineales.csproj", "{E9AF5612-D58A-490A-93B0-6F31B43F99BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9AF5612-D58A-490A-93B0-6F31B43F99BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AF5612-D58A-490A-93B0-6F31B43F99BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AF5612-D58A-490A-93B0-6F31B43F99BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AF5612-D58A-490A-93B0-6F31B43F99BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A61964D5-2D9C-41FB-B5D1-E1C9ABC45275}
+	EndGlobalSection
+EndGlobal
